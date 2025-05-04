@@ -50,7 +50,7 @@ CrediKhaata is a RESTful backend service built using *Node.js, **Express, and **
 ### 1. Clone and Install
 
 bash
-git clone https://github.com/yourusername/credikhaata-backend.git
+git clone https://github.com/yourusername/credikhaata.git
 cd credikhaata
 npm install
 
